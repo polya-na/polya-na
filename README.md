@@ -3,7 +3,7 @@
 Sobre mim:
 
 - 🔭 Atualmente trabalho com Qualidade de Dados
-- 🤓 Trabalhei como desenvolvedora de software e me apaixonei pela área de dados
+- 🤓 Trabalhei como desenvolvedora de software e acabei me apaixonei pela área de dados no caminho
 - ⚡ Sou uma pessoa extremamente extrovertida
 - 💬 Atualmente estudo análise de dados
 
