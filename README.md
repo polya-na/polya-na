@@ -5,6 +5,7 @@ Sobre mim:
 - 🔭 Atualmente trabalho com Qualidade de Dados
 - 🤓 Trabalhei como desenvolvedora de software e acabei me apaixonei pela área de dados no caminho
 - ⚡ Sou uma pessoa extremamente extrovertida
+---
 
 <!--
 **polya-na/polya-na** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
