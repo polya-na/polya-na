@@ -32,6 +32,6 @@ Objetivos:
 - Medir a performance comparando períodos de tempo (YoY, YTD, MoM, MTD).
   
 <br>
-<a href="https://app.powerbi.com/view?r=eyJrIjoiOGMyNzM3ZGItNzI4Ni00MjcwLWI5YWQtN2JmODgyZDliMWM5IiwidCI6IjQxNGU0N2Q2LTVhNGUtNDkzZS05OWJkLTUzMTYwZjJhYWY2ZiJ9" target="_blank">Clique aqui</a> e acesse o Dashboard
+<a href="https://app.powerbi.com/view?r=eyJrIjoiYTE3ODdlM2UtN2RjNi00MmY4LThmYWMtMjIwNDZhZTExNTc2IiwidCI6ImNlYTM2Y2QyLTI5MjEtNGNmZi1iZGY3LWFmYzAwNDNmZDliMSJ9" target="_blank">Clique aqui</a> e acesse o Dashboard
 <br>
 <a href="https://github.com/polya-na/Bf-Lubs" target="_blank">Clique aqui</a> e acesse o repositório no Github.
