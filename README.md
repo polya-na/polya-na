@@ -15,7 +15,27 @@ Principais Ferramentas:
   <img align="center" alt="Power BI" height="40" width="40" src="https://github.com/BruceFonseca/ferramentas/blob/main/1200px-New_Power_BI_Logo.svg.png?raw=true">
 </div>
 
+##
+
+## Portfólio e Principais Projetos
+### Bf Lubs Sales Dashboard 
+
+<img align="right" width="500"  src="https://github.com/polya-na/Bf-Lubs/blob/main/Imagens/projeto-tela-inicial.png?raw=true">
+Projeto de dashboard devolvido com Power BI para identificar os principais fatores que impactam as vendas da empresa Bf Lubs, permitindo análises dinâmicas e de fácil compartilhamento com os responsáveis pela tomada de decisão.
+<br><br>
+
+Objetivos: 
 <br>
+- Analisar as vendas do ano atual comparando com as vendas do ano interior
+- Analisar como estão as entregas do produto
+- Segmentar dados  por business line, divisão, cidade e períodos de tempo de uma forma simples, dinâmica e fácil de compartilhar.
+- Medir a performance comparando períodos de tempo (YoY, YTD, MoM, MTD).
+<br><br>
+<a href="https://app.powerbi.com/view?r=eyJrIjoiOGMyNzM3ZGItNzI4Ni00MjcwLWI5YWQtN2JmODgyZDliMWM5IiwidCI6IjQxNGU0N2Q2LTVhNGUtNDkzZS05OWJkLTUzMTYwZjJhYWY2ZiJ9" target="_blank">Clique aqui</a> e acesse o Dashboard
+<br>
+<a href="https://github.com/polya-na/Bf-Lubs" target="_blank">Clique aqui</a> e acesse o repositório no Github.
+
+<br><br>
 
 <!--
 **polya-na/polya-na** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
