@@ -21,7 +21,7 @@ Principais Ferramentas:
 ### Bf Lubs Sales Dashboard 
 
 <img align="right" width="500"  src="https://github.com/polya-na/Bf-Lubs/blob/main/Imagens/projeto-tela-inicial.png?raw=true">
-Projeto de dashboard devolvido com Power BI para identificar os principais fatores que impactam as vendas da empresa Bf Lubs, permitindo análises dinâmicas e de fácil compartilhamento com os responsáveis pela tomada de decisão.
+Projeto de dashboard desenvolvido com Power BI para identificar os principais fatores que impactam nas vendas da empresa fictícia Bf Lubs, permitindo análises dinâmicas e de fácil compartilhamento com os responsáveis pela tomada de decisão.
 <br><br>
 
 Objetivos: 
